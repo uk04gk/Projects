@@ -1,0 +1,1 @@
+This project on the Forecasting Bike Rentals with Decision Tree Regressor, Linear Regression, Random Forest Regressor using scikit-learn. In this project, I used Python and scikit-learn to build models using the above-mentioned algorithms, and apply them to forecast the bike rentals.
