@@ -1,0 +1,1 @@
+A generalization of multi-label classification where each label can be multiclass (i.e., it can have more than two possible values). I build a system that removes noise from images. It will take as input a noisy digit image, and it will output a clean digit image, represented as an array of pixel intensities, just like the MNIST images.
