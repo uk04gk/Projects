@@ -5,3 +5,4 @@ All projects are available here.
 3. Cat vs Non-cat Classifier with Logistic Regression using Numpy and ANN
 4. Classify clothes using TensorFlow
 5. Forecasting Bikes Rentals
+6. Predicting Titanic Passenger Survival
