@@ -2,6 +2,8 @@ Skills:
 
 Deep Learning
 
+CNN Model
+
 Tensorflow
 
 About the Dataset
