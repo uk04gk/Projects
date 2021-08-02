@@ -9,3 +9,5 @@ TensorFlow 2
 Python Programming
 
 Deep Learning
+
+Pretrained model-ResNet50
