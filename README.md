@@ -8,3 +8,4 @@ All projects are available here.
 6. Predicting Titanic Passenger Survival
 7. Predicting the Class using Pre-Trained model
 8. DNN-Cat vs Non-cat Classifier
+9. Predict the hourly rain gauge total
