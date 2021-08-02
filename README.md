@@ -6,3 +6,4 @@ All projects are available here.
 4. Classify clothes using TensorFlow
 5. Forecasting Bikes Rentals
 6. Predicting Titanic Passenger Survival
+7. Predicting the Class using Pre-Trained model
