@@ -10,4 +10,5 @@ All projects are available here.
 8. DNN-Cat vs Non-cat Classifier - ***Deep Learning(CNN), Transfer Learning(VGG16)***
 9. Predict the hourly rain gauge total - ***Deep Learning(Time Series Prediction - LSTM)***
 10. Building_spam_classifier - ***Machine Learning, NLP, Textual Data Preprocessing***
+11. Deploy an Image Classification Model using Flask - ***Model Deployment, WebApp, Flask, Deep Learning***
 
