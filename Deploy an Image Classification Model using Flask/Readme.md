@@ -11,3 +11,9 @@ Flask Framework
 TensorFlow
 
 Python Programming
+
+Classification
+
+CNN
+
+Pretrained Model - ResNet50
